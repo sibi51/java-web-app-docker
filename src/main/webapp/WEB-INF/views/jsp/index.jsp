@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Cloud platform,Green Technologies,Preumbakkam,Chennai</h2>
+			<h2>Welcome To Cloud platform,Green Technology,Perumbakkam,Chennai</h2>
 			<h3>Contact @ +91-7200734912 & +91-9790742578 </h3>
 		</div>	
 	</div>
@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; cloudcandy 2020</p>
+		<p>&copy; Greens Technology 2021</p>
 	</footer>
 </div>
 
